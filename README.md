@@ -11,7 +11,7 @@ The Capital Asset Pricing Model (CAPM) helps investors estimate the expected ret
 1. Market inefficiency happens, and individuals often have asymmetrical information for investing.
 2. Market conditions change dynamically, and fluctuations of the past do not represent the future.
 3. Unsystematic risk can be diversified away in a well-constructed portfolio, but not all investors may have fully diversified portfolios.
-[MAG7_CAPM-gb.pdf](https://github.com/user-attachments/files/17036410/MAG7_CAPM-gb.pdf)
+![MAG7_CAPM-gb](https://github.com/user-attachments/assets/1868a89f-1339-4ce7-8216-cf9d4e670cbc)
 
 
 
