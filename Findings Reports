@@ -1,0 +1,57 @@
+This report provides an analysis of the performance of selected stocks over different time periods. The key metrics analyzed include Beta (a measure of volatility) and the expected return on investment (e_return).
+
+Summary of Findings
+Key Findings
+NVIDIA (NVDA)
+6 Months: 	Beta 2.942	Expected Return 14.888%
+1 Year:	Beta 2.656	Expected Return 19.666%
+2 Years:	Beta 2.288 	Expected Return 13.375%
+Analysis: NVDA offers the highest returns but with significant volatility, especially in the short term.
+
+Tesla (TSLA)
+6 Months: 	Beta 2.403	 Expected Return 12.836%
+1 Year: 	Beta 2.129 	Expected Return 16.502%
+2 Years: 	Beta 1.904	Expected Return 11.753%
+Analysis: TSLA provides strong returns with volatility that decreases over time.
+
+Meta Platforms (META)
+6 Months: 	Beta 1.336	Expected Return 8.779%
+1 Year: 	Beta 1.561	Expected Return 13.084%
+2 Years: 	Beta 1.636	Expected Return 10.619%
+Analysis: META shows moderate returns and lower volatility compared to NVDA and TSLA.
+
+Amazon (AMZN)
+6 Months:	Beta 1.427 	Expected Return 9.126%
+1 Year: 	Beta 1.546	Expected Return 12.994%
+2 Years: 	Beta 1.517	Expected Return 10.114%
+Analysis: AMZN provides stable performance with moderate returns and volatility.
+
+Alphabet (GOOGL)
+6 Months: 	Beta 1.250	Expected Return 8.454%
+1 Year: 	Beta 1.313	Expected Return 11.596%
+2 Years: 	Beta 1.332	Expected Return 9.333%
+Analysis: GOOGL is a stable choice with lower volatility and decent returns.
+
+Microsoft (MSFT)
+6 Months:	Beta 1.106	Expected Return 7.906%
+1 Year:	Beta 1.089	Expected Return 10.248%
+2 Years: 	Beta 1.255	Expected Return 9.010%
+Analysis: MSFT provides stability with lower volatility and steady returns.
+
+Apple (AAPL)
+6 Months: 	Beta 1.039	Expected Return 7.651%
+1 Year: 	Beta 0.972	Expected Return 9.543%
+2 Years: 	Beta 1.194 	Expected Return 8.750%
+Analysis: AAPL has the lowest Beta, indicating minimal volatility, but also offers lower returns.
+
+Conclusion
+High Risk, High Return: NVDA and TSLA lead in expected returns but come with high volatility.
+Moderate Risk: META, AMZN, and GOOGL offer balanced options with moderate returns and volatility.
+Low Risk: MSFT and AAPL provide stable performance with lower volatility, making them ideal for conservative investors.
+Benchmark: The S&P 500 (^GSPC) serves as a safe market benchmark for more risk-averse investors.
+
+Recommendations
+For Aggressive Investors: If you can tolerate high volatility for the potential of high returns, consider investing in NVDA or TSLA. Both stocks have shown substantial returns but come with higher risk.
+For Moderate Risk Investors: META, AMZN, and GOOGL offer a balanced profile with good returns and moderate volatility. These stocks are well-suited for investors seeking growth with manageable risk.
+For Conservative Investors: If you prioritize stability and lower volatility over high returns, MSFT and AAPL are ideal choices. These stocks provide steady growth with reduced market fluctuations.
+
