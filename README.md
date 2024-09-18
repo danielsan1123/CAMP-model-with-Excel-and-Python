@@ -1,4 +1,5 @@
 September 16th, 2024
+
 In this project, I utilized the yfinance library, which is a free Python tool powered by the Yahoo! Finance API. It was a great experience to easily implement data analysis. I developed a visualization comparing the market return (SP500) to daily asset returns (stock prices) and calculated input for the CAPM model which is a risk-free asset rate, generally using 10-year treasury, Beta slope coefficients for daily returns of asset prices, and risk premium rate. I'm particularly excited to work with near historical financial data from the Magnificent 7. You can find my analysis findings in the attached report, and you're welcome to download my Excel and IPYNB files as well. Thank you for stopping by my page!
 
 **CAPM Explanation:**
