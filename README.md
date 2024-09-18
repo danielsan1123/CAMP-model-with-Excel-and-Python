@@ -17,6 +17,7 @@ The Capital Asset Pricing Model (CAPM) helps investors estimate the expected ret
    
 Open xlsx for Excel calculation and ipynb for data visualizing preference
 <img width="810" alt="Screenshot 2024-09-17 at 7 45 24 PM" src="https://github.com/user-attachments/assets/1e145f82-22a0-436c-80b6-40fd99a66164">
+
 From: CAPM ML-UPdate-ver2.ipynb
 
 ![MAG7_CAPM-gb](https://github.com/user-attachments/assets/1868a89f-1339-4ce7-8216-cf9d4e670cbc)
